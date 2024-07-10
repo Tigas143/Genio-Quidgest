@@ -1,0 +1,212 @@
+{
+	"DbEditActionPlacement": {
+		"values": [
+			"left",
+			"right"
+		],
+		"default": "left"
+	},
+	"FormAnchorsPosition": {
+		"values": [
+			"form-header",
+			"sidebar"
+		],
+		"default": "sidebar"
+	},
+	"DbEditPagerPlacement": {
+		"values": [
+			"left",
+			"right"
+		],
+		"default": "left"
+	},
+	"DbEditMultipleActionPlacement": {
+		"values": [
+			"left",
+			"right"
+		],
+		"default": "left"
+	},
+	"LoginStyle": {
+		"values": [
+			"single_page",
+			"embeded_page"
+		],
+		"default": "single_page"
+	},
+	"MenuStyle": {
+		"values": [
+			"simple_navbar",
+			"ribbon",
+			"double_navbar"
+		],
+		"default": "simple_navbar"
+	},
+	"LogonPlacement": {
+		"values": [
+			"in_header",
+			"in_navmenu"
+		],
+		"default": "in_header"
+	},
+	"LanguagePlacement": {
+		"values": [
+			"in_header",
+			"in_footer"
+		],
+		"default": "in_footer"
+	},
+	"UserRegisterStyle": {
+		"values": [
+			"button",
+			"hyperlink"
+		],
+		"default": "button"
+	},
+	"HeaderEnable": {
+		"values": [
+			true,
+			false
+		],
+		"default": true
+	},
+	"FooterEnable": {
+		"values": [
+			true,
+			false
+		],
+		"default": true
+	},
+	"BreadcrumbsContent": {
+		"values": [
+			"simplified",
+			"detailed",
+			"hidden"
+		],
+		"default": "detailed"
+	},
+	"LogoEnable": {
+		"values": [
+			true,
+			false
+		],
+		"default": true
+	},
+	"BrandIconEnable": {
+		"values": [
+			true,
+			false
+		],
+		"default": false
+	},
+	"LoginBrandEnable": {
+		"values": [
+			true,
+			false
+		],
+		"default": true
+	},
+	"ContainerWidth": {
+		"values": [
+			"whole_page",
+			"reduced"
+		],
+		"default": "whole_page"
+	},
+	"RowActionDisplay": {
+		"values": [
+			"inline",
+			"dropdown"
+		],
+		"default": "dropdown"
+	},
+	"DefaultSidebarState": {
+		"values": [
+			"opened",
+			"closed"
+		],
+		"default": "opened"
+	},
+	"MenuSearchEnable": {
+		"values": [
+			true,
+			false
+		],
+		"default": true
+	},
+	"BookmarkEnable": {
+		"values": [
+			true,
+			false
+		],
+		"default": true
+	},
+	"MenuAlign": {
+		"values": [
+			"left",
+			"right"
+		],
+		"default": "left"
+	},
+	"ShowPasswordToggle": {
+		"values": [
+			true,
+			false
+		],
+		"default": true
+	},
+	"AuthenticationStyle": {
+		"values": [
+			"default",
+			"light",
+			"secondary"
+		],
+		"chosen": "light",
+		"default": "default"
+	},
+	"HelpListShort": {
+		"values": [
+			"Tooltip",
+			"Popover",
+			"Subtitle",
+			"Info-banner"
+		],
+		"default": "Subtitle"
+	},
+	"HelpListDetail": {
+		"values": [
+			"Popover",
+			"Subtitle",
+			"Info-banner"
+		],
+		"default": "Popover"
+	},
+	"HelpInputShort": {
+		"values": [
+			"Tooltip",
+			"Subtext"
+		],
+		"default": "Tooltip"
+	},
+	"HelpInputDetail": {
+		"values": [
+			"Popover"
+		],
+		"default": "Popover"
+	},
+	"HelpGroupShort": {
+		"values": [
+			"Tooltip",
+			"Popover",
+			"Subtitle"
+		],
+		"default": "Tooltip"
+	},
+	"HelpGroupDetail": {
+		"values": [
+			"Popover",
+			"Subtitle"
+		],
+		"default": "Popover"
+	}
+}

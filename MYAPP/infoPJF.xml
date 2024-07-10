@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Projecto>
+	<Definicoes>
+		<Sistema>PJF</Sistema>
+		<Cliente>QUIDGEST</Cliente>
+		<Versao>2670</Versao>
+	</Definicoes>
+	<Modulos>
+		<Modulo ID="PJF">
+			<PROG>Airlines Manager</PROG>
+			<PLATAFOR>VUE</PLATAFOR>
+		</Modulo>
+	</Modulos>
+</Projecto>
